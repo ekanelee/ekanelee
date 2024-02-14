@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud facilities**
 
-- 📫 How to reach me **ekanelee17@gmail.com**
+- 📫 How to reach me **ekanelee17@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2iBCsGCgR64_UnOQA8rj7Fe_EGa4_eQXkw&usqp=CAU">
